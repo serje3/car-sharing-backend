@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/22876d79-1a9f-4f6b-a77d-e776591bbdbb/deploy-status)](https://app.netlify.com/sites/car-sharing-serje3/deploys)
+
 Car Sharing service by serje3
 ===
 
